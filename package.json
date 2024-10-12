@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@elastic/apm-rum-react": "^2.0.2",
+    "@elastic/elasticsearch": "^8.13.1",
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "http-proxy-middleware": "^3.0.0",
+    "mini-css-extract-plugin": "^2.9.0",
+    "mongoose": "^8.4.0",
+    "nodejs": "^0.0.0",
+    "nodemon": "^3.1.2",
+    "react-scripts": "^5.0.1",
+    "react-to-print": "^2.15.1"
+  },
+  "name": "project",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
